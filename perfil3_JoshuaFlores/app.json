@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "perfil3_JoshuaFlores",
+    "slug": "perfil3_JoshuaFlores",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Splash.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/android-icon-foreground.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E6F4FE"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.joshuaa_f_d.perfil3_JoshuaFlores"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2b1f1c4b-6122-4340-ada1-cb6aeec04712"
+      }
+    }
+  }
+}
